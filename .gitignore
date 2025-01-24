@@ -1,0 +1,15 @@
+flask_project_env/
+*.pyc
+__pycache__/
+.env
+# Ignore virtual environment
+venv/
+__pycache__/
+
+# Environment variables
+.env
+
+# IDE/editor settings
+*.vscode/
+*.idea/
+.DS_Store
