@@ -1,9 +1,12 @@
 from flask import Flask
-from routes.routes_init import register_routes
+from flask_cors import CORS
+from routes.routes_init import register_routes  # Import register_routes function
 
 app = Flask(__name__)
 
-# Register the routes
+CORS(app)
+
+# Register the routes via blueprints
 register_routes(app)
 
 @app.route('/', methods=['GET'])

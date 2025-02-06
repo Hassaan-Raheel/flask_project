@@ -1,7 +1,8 @@
-from flask import Blueprint
-from controllers.facebook.get import get_facebook_data  # For Facebook
-from controllers.instagram.get import get_instagram_data  # For Instagram
+from controllers.facebook.get import facebook_blueprint  # Import Facebook Blueprint
+from controllers.instagram.get import instagram_blueprint  # Import Instagram Blueprint
+from controllers.metaAds.get import meta_ads_blueprint  # Import Meta Ads Blueprint
 
 def register_routes(app):
-    app.route('/facebook', methods=['GET'])(get_facebook_data)  # Facebook route
-    app.route('/instagram', methods=['GET'])(get_instagram_data)  # Instagram route
+    app.register_blueprint(facebook_blueprint)  # Register Facebook Blueprint
+    app.register_blueprint(instagram_blueprint)  # Register Instagram Blueprint
+    app.register_blueprint(meta_ads_blueprint)   # Register Meta Ads Blueprint
