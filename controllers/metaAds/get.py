@@ -39,7 +39,7 @@ def get_meta_ads_data():
             # Step 2: Fetch insights for each ad with valid fields and platform breakdown
             insights_url = f"https://graph.facebook.com/v18.0/{ad_id}/insights"
             insights_params = {
-                "fields": "campaign_name,reach,impressions,spend,clicks,frequency,date_start,date_stop,cpm,cpc,ctr",  # Basic insights fields
+                "fields": "campaign_name,reach,impressions,spend,clicks,frequency,cpm,cpc,ctr",  # Basic insights fields
                 "breakdown": "publisher_platform",  # Breakdown by platform (Facebook, Instagram, Audience Network)
                 "access_token": access_token
             }

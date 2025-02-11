@@ -1,6 +1,84 @@
 {
     "ads_data": [
         {
+            "id": "120216951494880560",
+            "name": "Promoting website: https://myfurnituremecca.com/tax-refund-sale/",
+            "adset_id": "120216951494810560",
+            "campaign_id": "120216951494740560",
+            "status": "ACTIVE",
+            "insights": [
+                {
+                    "campaign_name": "[02/07/2025] Promoting https://myfurnituremecca.com/tax-refund-sale/",
+                    "reach": "4389",
+                    "impressions": "7183",
+                    "spend": "44.06",
+                    "clicks": "212",
+                    "frequency": "1.636591",
+                    "cpm": "6.133927",
+                    "cpc": "0.20783",
+                    "ctr": "2.951413",
+                    "date_start": "2025-01-12",
+                    "date_stop": "2025-02-10"
+                }
+            ],
+            "insights_by_platform": {
+                "unknown": [
+                    {
+                        "campaign_name": "[02/07/2025] Promoting https://myfurnituremecca.com/tax-refund-sale/",
+                        "reach": "4389",
+                        "impressions": "7183",
+                        "spend": "44.06",
+                        "clicks": "212",
+                        "frequency": "1.636591",
+                        "cpm": "6.133927",
+                        "cpc": "0.20783",
+                        "ctr": "2.951413",
+                        "date_start": "2025-01-12",
+                        "date_stop": "2025-02-10"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "120216951244760560",
+            "name": "Promoting website: https://myfurnituremecca.com/tax-refund-sale/",
+            "adset_id": "120216951244720560",
+            "campaign_id": "120216951244660560",
+            "status": "ACTIVE",
+            "insights": [
+                {
+                    "campaign_name": "[02/07/2025] Promoting https://myfurnituremecca.com/tax-refund-sale/",
+                    "reach": "4384",
+                    "impressions": "6938",
+                    "spend": "44.59",
+                    "clicks": "160",
+                    "frequency": "1.582573",
+                    "cpm": "6.426924",
+                    "cpc": "0.278688",
+                    "ctr": "2.30614",
+                    "date_start": "2025-01-12",
+                    "date_stop": "2025-02-10"
+                }
+            ],
+            "insights_by_platform": {
+                "unknown": [
+                    {
+                        "campaign_name": "[02/07/2025] Promoting https://myfurnituremecca.com/tax-refund-sale/",
+                        "reach": "4384",
+                        "impressions": "6938",
+                        "spend": "44.59",
+                        "clicks": "160",
+                        "frequency": "1.582573",
+                        "cpm": "6.426924",
+                        "cpc": "0.278688",
+                        "ctr": "2.30614",
+                        "date_start": "2025-01-12",
+                        "date_stop": "2025-02-10"
+                    }
+                ]
+            }
+        },
+        {
             "id": "120216801378460560",
             "name": "Promoting website: https://myfurnituremecca.com/tax-refund-sale/",
             "adset_id": "120216801378300560",
@@ -9,32 +87,32 @@
             "insights": [
                 {
                     "campaign_name": "[02/03/2025] Promoting https://myfurnituremecca.com/tax-refund-sale/",
-                    "reach": "7181",
-                    "impressions": "10679",
-                    "spend": "52.48",
-                    "clicks": "269",
-                    "frequency": "1.487119",
-                    "date_start": "2025-01-07",
-                    "date_stop": "2025-02-05",
-                    "cpm": "4.914318",
-                    "cpc": "0.195093",
-                    "ctr": "2.518962"
+                    "reach": "16303",
+                    "impressions": "29651",
+                    "spend": "151.43",
+                    "clicks": "620",
+                    "frequency": "1.818745",
+                    "cpm": "5.107079",
+                    "cpc": "0.244242",
+                    "ctr": "2.090992",
+                    "date_start": "2025-01-12",
+                    "date_stop": "2025-02-10"
                 }
             ],
             "insights_by_platform": {
                 "unknown": [
                     {
                         "campaign_name": "[02/03/2025] Promoting https://myfurnituremecca.com/tax-refund-sale/",
-                        "reach": "7181",
-                        "impressions": "10679",
-                        "spend": "52.48",
-                        "clicks": "269",
-                        "frequency": "1.487119",
-                        "date_start": "2025-01-07",
-                        "date_stop": "2025-02-05",
-                        "cpm": "4.914318",
-                        "cpc": "0.195093",
-                        "ctr": "2.518962"
+                        "reach": "16303",
+                        "impressions": "29651",
+                        "spend": "151.43",
+                        "clicks": "620",
+                        "frequency": "1.818745",
+                        "cpm": "5.107079",
+                        "cpc": "0.244242",
+                        "ctr": "2.090992",
+                        "date_start": "2025-01-12",
+                        "date_stop": "2025-02-10"
                     }
                 ]
             }
@@ -48,32 +126,32 @@
             "insights": [
                 {
                     "campaign_name": "New Traffic Campaign",
-                    "reach": "9186",
-                    "impressions": "15739",
-                    "spend": "91.39",
-                    "clicks": "443",
-                    "frequency": "1.713368",
-                    "date_start": "2025-01-07",
-                    "date_stop": "2025-02-05",
-                    "cpm": "5.806595",
-                    "cpc": "0.206298",
-                    "ctr": "2.814664"
+                    "reach": "15572",
+                    "impressions": "29844",
+                    "spend": "179.29",
+                    "clicks": "783",
+                    "frequency": "1.916517",
+                    "cpm": "6.007573",
+                    "cpc": "0.228978",
+                    "ctr": "2.623643",
+                    "date_start": "2025-01-12",
+                    "date_stop": "2025-02-10"
                 }
             ],
             "insights_by_platform": {
                 "unknown": [
                     {
                         "campaign_name": "New Traffic Campaign",
-                        "reach": "9186",
-                        "impressions": "15739",
-                        "spend": "91.39",
-                        "clicks": "443",
-                        "frequency": "1.713368",
-                        "date_start": "2025-01-07",
-                        "date_stop": "2025-02-05",
-                        "cpm": "5.806595",
-                        "cpc": "0.206298",
-                        "ctr": "2.814664"
+                        "reach": "15572",
+                        "impressions": "29844",
+                        "spend": "179.29",
+                        "clicks": "783",
+                        "frequency": "1.916517",
+                        "cpm": "6.007573",
+                        "cpc": "0.228978",
+                        "ctr": "2.623643",
+                        "date_start": "2025-01-12",
+                        "date_stop": "2025-02-10"
                     }
                 ]
             }
@@ -87,32 +165,32 @@
             "insights": [
                 {
                     "campaign_name": "New Engagement Campaign",
-                    "reach": "49837",
-                    "impressions": "101584",
-                    "spend": "415.75",
-                    "clicks": "461",
-                    "frequency": "2.038325",
-                    "date_start": "2025-01-07",
-                    "date_stop": "2025-02-05",
-                    "cpm": "4.092672",
-                    "cpc": "0.901844",
-                    "ctr": "0.453812"
+                    "reach": "38505",
+                    "impressions": "72428",
+                    "spend": "292.07",
+                    "clicks": "327",
+                    "frequency": "1.881002",
+                    "cpm": "4.032556",
+                    "cpc": "0.89318",
+                    "ctr": "0.451483",
+                    "date_start": "2025-01-12",
+                    "date_stop": "2025-02-10"
                 }
             ],
             "insights_by_platform": {
                 "unknown": [
                     {
                         "campaign_name": "New Engagement Campaign",
-                        "reach": "49837",
-                        "impressions": "101584",
-                        "spend": "415.75",
-                        "clicks": "461",
-                        "frequency": "2.038325",
-                        "date_start": "2025-01-07",
-                        "date_stop": "2025-02-05",
-                        "cpm": "4.092672",
-                        "cpc": "0.901844",
-                        "ctr": "0.453812"
+                        "reach": "38505",
+                        "impressions": "72428",
+                        "spend": "292.07",
+                        "clicks": "327",
+                        "frequency": "1.881002",
+                        "cpm": "4.032556",
+                        "cpc": "0.89318",
+                        "ctr": "0.451483",
+                        "date_start": "2025-01-12",
+                        "date_stop": "2025-02-10"
                     }
                 ]
             }
@@ -126,32 +204,32 @@
             "insights": [
                 {
                     "campaign_name": "New Engagement Campaign",
-                    "reach": "31073",
-                    "impressions": "68416",
-                    "spend": "413.46",
-                    "clicks": "754",
-                    "frequency": "2.201783",
-                    "date_start": "2025-01-07",
-                    "date_stop": "2025-02-05",
-                    "cpm": "6.043323",
-                    "cpc": "0.548355",
-                    "ctr": "1.102081"
+                    "reach": "24769",
+                    "impressions": "48226",
+                    "spend": "289.65",
+                    "clicks": "555",
+                    "frequency": "1.947031",
+                    "cpm": "6.006096",
+                    "cpc": "0.521892",
+                    "ctr": "1.150832",
+                    "date_start": "2025-01-12",
+                    "date_stop": "2025-02-10"
                 }
             ],
             "insights_by_platform": {
                 "unknown": [
                     {
                         "campaign_name": "New Engagement Campaign",
-                        "reach": "31073",
-                        "impressions": "68416",
-                        "spend": "413.46",
-                        "clicks": "754",
-                        "frequency": "2.201783",
-                        "date_start": "2025-01-07",
-                        "date_stop": "2025-02-05",
-                        "cpm": "6.043323",
-                        "cpc": "0.548355",
-                        "ctr": "1.102081"
+                        "reach": "24769",
+                        "impressions": "48226",
+                        "spend": "289.65",
+                        "clicks": "555",
+                        "frequency": "1.947031",
+                        "cpm": "6.006096",
+                        "cpc": "0.521892",
+                        "ctr": "1.150832",
+                        "date_start": "2025-01-12",
+                        "date_stop": "2025-02-10"
                     }
                 ]
             }
@@ -170,11 +248,11 @@
                     "spend": "157.35",
                     "clicks": "150",
                     "frequency": "1.627335",
-                    "date_start": "2025-01-07",
-                    "date_stop": "2025-02-05",
                     "cpm": "5.376546",
                     "cpc": "1.049",
-                    "ctr": "0.51254"
+                    "ctr": "0.51254",
+                    "date_start": "2025-01-12",
+                    "date_stop": "2025-02-10"
                 }
             ],
             "insights_by_platform": {
@@ -186,11 +264,11 @@
                         "spend": "157.35",
                         "clicks": "150",
                         "frequency": "1.627335",
-                        "date_start": "2025-01-07",
-                        "date_stop": "2025-02-05",
                         "cpm": "5.376546",
                         "cpc": "1.049",
-                        "ctr": "0.51254"
+                        "ctr": "0.51254",
+                        "date_start": "2025-01-12",
+                        "date_stop": "2025-02-10"
                     }
                 ]
             }
@@ -209,11 +287,11 @@
                     "spend": "249.38",
                     "clicks": "339",
                     "frequency": "1.634795",
-                    "date_start": "2025-01-07",
-                    "date_stop": "2025-02-05",
                     "cpm": "6.265199",
                     "cpc": "0.735634",
-                    "ctr": "0.851673"
+                    "ctr": "0.851673",
+                    "date_start": "2025-01-12",
+                    "date_stop": "2025-02-10"
                 }
             ],
             "insights_by_platform": {
@@ -225,11 +303,11 @@
                         "spend": "249.38",
                         "clicks": "339",
                         "frequency": "1.634795",
-                        "date_start": "2025-01-07",
-                        "date_stop": "2025-02-05",
                         "cpm": "6.265199",
                         "cpc": "0.735634",
-                        "ctr": "0.851673"
+                        "ctr": "0.851673",
+                        "date_start": "2025-01-12",
+                        "date_stop": "2025-02-10"
                     }
                 ]
             }
@@ -248,11 +326,11 @@
                     "spend": "199.92",
                     "clicks": "507",
                     "frequency": "1.888548",
-                    "date_start": "2025-01-07",
-                    "date_stop": "2025-02-05",
                     "cpm": "5.232001",
                     "cpc": "0.39432",
-                    "ctr": "1.326843"
+                    "ctr": "1.326843",
+                    "date_start": "2025-01-12",
+                    "date_stop": "2025-02-10"
                 }
             ],
             "insights_by_platform": {
@@ -264,11 +342,11 @@
                         "spend": "199.92",
                         "clicks": "507",
                         "frequency": "1.888548",
-                        "date_start": "2025-01-07",
-                        "date_stop": "2025-02-05",
                         "cpm": "5.232001",
                         "cpc": "0.39432",
-                        "ctr": "1.326843"
+                        "ctr": "1.326843",
+                        "date_start": "2025-01-12",
+                        "date_stop": "2025-02-10"
                     }
                 ]
             }
@@ -282,32 +360,32 @@
             "insights": [
                 {
                     "campaign_name": "[01/11/2025] Promoting https://myfurnituremecca.com/annual-warehouse-clearance-sale/",
-                    "reach": "18123",
-                    "impressions": "29935",
-                    "spend": "149.9",
-                    "clicks": "908",
-                    "frequency": "1.651768",
-                    "date_start": "2025-01-07",
-                    "date_stop": "2025-02-05",
-                    "cpm": "5.007516",
-                    "cpc": "0.165088",
-                    "ctr": "3.033239"
+                    "reach": "17139",
+                    "impressions": "26934",
+                    "spend": "134.78",
+                    "clicks": "783",
+                    "frequency": "1.571504",
+                    "cpm": "5.004084",
+                    "cpc": "0.172133",
+                    "ctr": "2.907106",
+                    "date_start": "2025-01-12",
+                    "date_stop": "2025-02-10"
                 }
             ],
             "insights_by_platform": {
                 "unknown": [
                     {
                         "campaign_name": "[01/11/2025] Promoting https://myfurnituremecca.com/annual-warehouse-clearance-sale/",
-                        "reach": "18123",
-                        "impressions": "29935",
-                        "spend": "149.9",
-                        "clicks": "908",
-                        "frequency": "1.651768",
-                        "date_start": "2025-01-07",
-                        "date_stop": "2025-02-05",
-                        "cpm": "5.007516",
-                        "cpc": "0.165088",
-                        "ctr": "3.033239"
+                        "reach": "17139",
+                        "impressions": "26934",
+                        "spend": "134.78",
+                        "clicks": "783",
+                        "frequency": "1.571504",
+                        "cpm": "5.004084",
+                        "cpc": "0.172133",
+                        "ctr": "2.907106",
+                        "date_start": "2025-01-12",
+                        "date_stop": "2025-02-10"
                     }
                 ]
             }
@@ -321,32 +399,32 @@
             "insights": [
                 {
                     "campaign_name": "[01/09/2025] Promoting https://myfurnituremecca.com/",
-                    "reach": "22638",
-                    "impressions": "41354",
-                    "spend": "159.72",
-                    "clicks": "565",
-                    "frequency": "1.826751",
-                    "date_start": "2025-01-07",
-                    "date_stop": "2025-02-05",
-                    "cpm": "3.862262",
-                    "cpc": "0.28269",
-                    "ctr": "1.366252"
+                    "reach": "17669",
+                    "impressions": "27615",
+                    "spend": "108.4",
+                    "clicks": "344",
+                    "frequency": "1.562907",
+                    "cpm": "3.925403",
+                    "cpc": "0.315116",
+                    "ctr": "1.2457",
+                    "date_start": "2025-01-12",
+                    "date_stop": "2025-02-10"
                 }
             ],
             "insights_by_platform": {
                 "unknown": [
                     {
                         "campaign_name": "[01/09/2025] Promoting https://myfurnituremecca.com/",
-                        "reach": "22638",
-                        "impressions": "41354",
-                        "spend": "159.72",
-                        "clicks": "565",
-                        "frequency": "1.826751",
-                        "date_start": "2025-01-07",
-                        "date_stop": "2025-02-05",
-                        "cpm": "3.862262",
-                        "cpc": "0.28269",
-                        "ctr": "1.366252"
+                        "reach": "17669",
+                        "impressions": "27615",
+                        "spend": "108.4",
+                        "clicks": "344",
+                        "frequency": "1.562907",
+                        "cpm": "3.925403",
+                        "cpc": "0.315116",
+                        "ctr": "1.2457",
+                        "date_start": "2025-01-12",
+                        "date_stop": "2025-02-10"
                     }
                 ]
             }
@@ -360,32 +438,32 @@
             "insights": [
                 {
                     "campaign_name": "Post: \"Dream your way to better nights! \ud83c\udf19\u2728 Our premium...\"",
-                    "reach": "13033",
-                    "impressions": "19495",
-                    "spend": "296.7",
-                    "clicks": "447",
-                    "frequency": "1.495818",
-                    "date_start": "2025-01-07",
-                    "date_stop": "2025-02-05",
-                    "cpm": "15.219287",
-                    "cpc": "0.663758",
-                    "ctr": "2.292896"
+                    "reach": "5866",
+                    "impressions": "8176",
+                    "spend": "133.03",
+                    "clicks": "174",
+                    "frequency": "1.393795",
+                    "cpm": "16.270793",
+                    "cpc": "0.76454",
+                    "ctr": "2.12818",
+                    "date_start": "2025-01-12",
+                    "date_stop": "2025-02-10"
                 }
             ],
             "insights_by_platform": {
                 "unknown": [
                     {
                         "campaign_name": "Post: \"Dream your way to better nights! \ud83c\udf19\u2728 Our premium...\"",
-                        "reach": "13033",
-                        "impressions": "19495",
-                        "spend": "296.7",
-                        "clicks": "447",
-                        "frequency": "1.495818",
-                        "date_start": "2025-01-07",
-                        "date_stop": "2025-02-05",
-                        "cpm": "15.219287",
-                        "cpc": "0.663758",
-                        "ctr": "2.292896"
+                        "reach": "5866",
+                        "impressions": "8176",
+                        "spend": "133.03",
+                        "clicks": "174",
+                        "frequency": "1.393795",
+                        "cpm": "16.270793",
+                        "cpc": "0.76454",
+                        "ctr": "2.12818",
+                        "date_start": "2025-01-12",
+                        "date_stop": "2025-02-10"
                     }
                 ]
             }
@@ -399,32 +477,32 @@
             "insights": [
                 {
                     "campaign_name": "Post: \"Biggest savings of the year! \ud83d\udecb\ufe0f\ud83d\udecf\ufe0f\ud83c\udf7d\ufe0f Annual...\"",
-                    "reach": "8601",
-                    "impressions": "29399",
-                    "spend": "295.43",
-                    "clicks": "46",
-                    "frequency": "3.418091",
-                    "date_start": "2025-01-07",
-                    "date_stop": "2025-02-05",
-                    "cpm": "10.048981",
-                    "cpc": "6.422391",
-                    "ctr": "0.156468"
+                    "reach": "4999",
+                    "impressions": "13064",
+                    "spend": "131.92",
+                    "clicks": "31",
+                    "frequency": "2.613323",
+                    "cpm": "10.097979",
+                    "cpc": "4.255484",
+                    "ctr": "0.237293",
+                    "date_start": "2025-01-12",
+                    "date_stop": "2025-02-10"
                 }
             ],
             "insights_by_platform": {
                 "unknown": [
                     {
                         "campaign_name": "Post: \"Biggest savings of the year! \ud83d\udecb\ufe0f\ud83d\udecf\ufe0f\ud83c\udf7d\ufe0f Annual...\"",
-                        "reach": "8601",
-                        "impressions": "29399",
-                        "spend": "295.43",
-                        "clicks": "46",
-                        "frequency": "3.418091",
-                        "date_start": "2025-01-07",
-                        "date_stop": "2025-02-05",
-                        "cpm": "10.048981",
-                        "cpc": "6.422391",
-                        "ctr": "0.156468"
+                        "reach": "4999",
+                        "impressions": "13064",
+                        "spend": "131.92",
+                        "clicks": "31",
+                        "frequency": "2.613323",
+                        "cpm": "10.097979",
+                        "cpc": "4.255484",
+                        "ctr": "0.237293",
+                        "date_start": "2025-01-12",
+                        "date_stop": "2025-02-10"
                     }
                 ]
             }
@@ -438,32 +516,32 @@
             "insights": [
                 {
                     "campaign_name": "Post: \"\ud83c\udf89 It's time to save BIG! Our Annual Warehouse...\"",
-                    "reach": "8004",
-                    "impressions": "23524",
-                    "spend": "230.66",
-                    "clicks": "36",
-                    "frequency": "2.93903",
-                    "date_start": "2025-01-07",
-                    "date_stop": "2025-02-05",
-                    "cpm": "9.805305",
-                    "cpc": "6.407222",
-                    "ctr": "0.153035"
+                    "reach": "4599",
+                    "impressions": "10468",
+                    "spend": "103.78",
+                    "clicks": "13",
+                    "frequency": "2.276147",
+                    "cpm": "9.914024",
+                    "cpc": "7.983077",
+                    "ctr": "0.124188",
+                    "date_start": "2025-01-12",
+                    "date_stop": "2025-02-10"
                 }
             ],
             "insights_by_platform": {
                 "unknown": [
                     {
                         "campaign_name": "Post: \"\ud83c\udf89 It's time to save BIG! Our Annual Warehouse...\"",
-                        "reach": "8004",
-                        "impressions": "23524",
-                        "spend": "230.66",
-                        "clicks": "36",
-                        "frequency": "2.93903",
-                        "date_start": "2025-01-07",
-                        "date_stop": "2025-02-05",
-                        "cpm": "9.805305",
-                        "cpc": "6.407222",
-                        "ctr": "0.153035"
+                        "reach": "4599",
+                        "impressions": "10468",
+                        "spend": "103.78",
+                        "clicks": "13",
+                        "frequency": "2.276147",
+                        "cpm": "9.914024",
+                        "cpc": "7.983077",
+                        "ctr": "0.124188",
+                        "date_start": "2025-01-12",
+                        "date_stop": "2025-02-10"
                     }
                 ]
             }
@@ -474,38 +552,7 @@
             "adset_id": "120215694838770560",
             "campaign_id": "120215694838740560",
             "status": "ACTIVE",
-            "insights": [
-                {
-                    "campaign_name": "New Traffic Campaign",
-                    "reach": "9239",
-                    "impressions": "13767",
-                    "spend": "84.5",
-                    "clicks": "404",
-                    "frequency": "1.490096",
-                    "date_start": "2025-01-07",
-                    "date_stop": "2025-02-05",
-                    "cpm": "6.137866",
-                    "cpc": "0.209158",
-                    "ctr": "2.934554"
-                }
-            ],
-            "insights_by_platform": {
-                "unknown": [
-                    {
-                        "campaign_name": "New Traffic Campaign",
-                        "reach": "9239",
-                        "impressions": "13767",
-                        "spend": "84.5",
-                        "clicks": "404",
-                        "frequency": "1.490096",
-                        "date_start": "2025-01-07",
-                        "date_stop": "2025-02-05",
-                        "cpm": "6.137866",
-                        "cpc": "0.209158",
-                        "ctr": "2.934554"
-                    }
-                ]
-            }
+            "insights": "No insights available"
         },
         {
             "id": "120215553832200560",
@@ -584,22 +631,6 @@
             "name": "Instagram post: \u2728 Make your holidays extra comfy...",
             "adset_id": "120215187583250560",
             "campaign_id": "120215187583220560",
-            "status": "ACTIVE",
-            "insights": "No insights available"
-        },
-        {
-            "id": "120215187572920560",
-            "name": "Post: \"\u2728 Make your holidays extra comfy with the Foster...\"",
-            "adset_id": "120215187572880560",
-            "campaign_id": "120215187572780560",
-            "status": "ACTIVE",
-            "insights": "No insights available"
-        },
-        {
-            "id": "120215163773820560",
-            "name": "Post: \"Get cozy and organized with the Trevor Sleeper...\"",
-            "adset_id": "120215163773770560",
-            "campaign_id": "120215163773370560",
             "status": "ACTIVE",
             "insights": "No insights available"
         }

@@ -24,7 +24,7 @@ def get_instagram_data():
         # Step 2: Get Instagram Posts
         instagram_url = f"https://graph.facebook.com/v19.0/{instagram_business_account_id}/media"
         params = {
-            "fields": "id,caption,media_type,media_url,timestamp,permalink",
+            "fields": "id,caption,media_type,media_url,thumbnail_url,timestamp,permalink,children{id,media_type,media_url,thumbnail_url}",
             "access_token": Config.PAGE_ACCESS_TOKEN
         }
 
@@ -36,17 +36,30 @@ def get_instagram_data():
         instagram_data = instagram_response.json()
         posts = instagram_data.get('data', [])
 
-        post_details = [
-            {
-                "created_time": post.get("timestamp"),
+        # Process Instagram Posts
+        post_details = []
+        for post in posts:
+            media_type = post.get("media_type")
+            
+            post_data = {
                 "id": post.get("id"),
+                "created_time": post.get("timestamp"),
+                "media_type": media_type,
                 "image_tag": f'<img src="{post.get("media_url")}" alt="Post Image">',
                 "image_url": post.get("media_url"),
                 "message": post.get("caption", "No caption"),
-                "permalink_url": post.get("permalink")
+                "permalink_url": post.get("permalink"),
+                "thumbnail_url": post.get("thumbnail_url") if media_type == "VIDEO" else None
             }
-            for post in posts if post.get("media_type") in ["IMAGE", "VIDEO", "CAROUSEL_ALBUM"]
-        ]
+
+            # If it's a carousel, get the first image/video as the thumbnail
+            if media_type == "CAROUSEL_ALBUM":
+                children = post.get("children", {}).get("data", [])
+                if children:
+                    first_child = children[0]
+                    post_data["thumbnail_url"] = first_child.get("thumbnail_url") or first_child.get("media_url")
+
+            post_details.append(post_data)
 
         # Step 3: Get Instagram Insights (Followers, Reach, Clicks)
         insights_url = f"https://graph.facebook.com/v19.0/{instagram_business_account_id}/insights"
