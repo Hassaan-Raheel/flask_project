@@ -71,6 +71,10 @@ def get_meta_ads_data():
             else:
                 ad["insights"] = f"Failed to fetch insights: {insights_response.text}"
 
+            # Fetch additional breakdown insights (Age, Region, Gender, Device)
+            breakdown_insights = fetch_breakdown_insights(ad_account_id, access_token)
+            ad["breakdown_insights"] = breakdown_insights  # Add breakdown data to ad insights
+
             campaign_ads_data.append(ad)
 
         # Save data to JSON file
@@ -95,3 +99,43 @@ def get_saved_meta_ads():
         data = json.load(json_file)
 
     return jsonify(data), 200
+
+
+def fetch_breakdown_insights(ad_account_id, access_token):
+    """Fetch insights separately for Age, Region, Gender, and Device Platform with pagination."""
+    BASE_URL = f"https://graph.facebook.com/v15.0/{ad_account_id}/insights"
+    
+    COMMON_PARAMS = {
+        'access_token': access_token,
+        'fields': 'reach,impressions,clicks',  # Fetching only required fields
+        'date_preset': 'maximum',  # Fetch maximum available data
+    }
+
+    BREAKDOWNS = ['age', 'region', 'gender', 'device_platform']
+    breakdown_data = {}
+
+    for breakdown in BREAKDOWNS:
+        params = COMMON_PARAMS.copy()
+        params['breakdowns'] = breakdown  # Set the specific breakdown
+        
+        all_data = []  # To store all the paginated results
+        while True:
+            response = requests.get(BASE_URL, params=params)
+            data = response.json()
+
+            if 'data' in data:
+                all_data.extend(data['data'])  # Append current page data to all_data
+            else:
+                breakdown_data[breakdown] = {"error": "No data or error in response"}
+                break
+
+            # Check if there's a next page of data
+            if 'paging' in data and 'next' in data['paging']:
+                # There is another page, update the params to request the next page
+                params['after'] = data['paging']['cursors']['after']
+            else:
+                # No more pages
+                breakdown_data[breakdown] = all_data
+                break
+
+    return breakdown_data
