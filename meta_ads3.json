@@ -1,0 +1,354 @@
+{
+    "ads_data": [
+        {
+            "id": "120217384272030560",
+            "name": "Post: \"Presidents' Day deals are here! Upgrade your home...\"",
+            "adset_id": "120217384271460560",
+            "campaign_id": "120217384271330560",
+            "status": "ACTIVE",
+            "insights": "Failed to fetch insights: {\"error\":{\"message\":\"(#100) Current combination of data breakdown columns (action_type, age, device_platform, gender, region) is invalid \",\"type\":\"OAuthException\",\"code\":100,\"fbtrace_id\":\"Astr7xsnRw42tVQWJYGvxFz\"}}",
+            "breakdown_insights": {
+                "age": [],
+                "region": [],
+                "gender": [],
+                "device_platform": []
+            }
+        },
+        {
+            "id": "120217173157330560",
+            "name": "New Traffic Ad",
+            "adset_id": "120217173157310560",
+            "campaign_id": "120217173157290560",
+            "status": "ACTIVE",
+            "insights": "Failed to fetch insights: {\"error\":{\"message\":\"(#100) Current combination of data breakdown columns (action_type, age, device_platform, gender, region) is invalid \",\"type\":\"OAuthException\",\"code\":100,\"fbtrace_id\":\"AlRq06WcY1gcMeyGaAOLM7z\"}}",
+            "breakdown_insights": {
+                "age": [],
+                "region": [],
+                "gender": [],
+                "device_platform": []
+            }
+        },
+        {
+            "id": "120216951494880560",
+            "name": "Promoting website: https://myfurnituremecca.com/tax-refund-sale/",
+            "adset_id": "120216951494810560",
+            "campaign_id": "120216951494740560",
+            "status": "ACTIVE",
+            "insights": "Failed to fetch insights: {\"error\":{\"message\":\"(#100) Current combination of data breakdown columns (action_type, age, device_platform, gender, region) is invalid \",\"type\":\"OAuthException\",\"code\":100,\"fbtrace_id\":\"At6d7Oh6luNE3n73ZG8rRot\"}}",
+            "breakdown_insights": {
+                "age": [],
+                "region": [],
+                "gender": [],
+                "device_platform": []
+            }
+        },
+        {
+            "id": "120216951244760560",
+            "name": "Promoting website: https://myfurnituremecca.com/tax-refund-sale/",
+            "adset_id": "120216951244720560",
+            "campaign_id": "120216951244660560",
+            "status": "ACTIVE",
+            "insights": "Failed to fetch insights: {\"error\":{\"message\":\"(#100) Current combination of data breakdown columns (action_type, age, device_platform, gender, region) is invalid \",\"type\":\"OAuthException\",\"code\":100,\"fbtrace_id\":\"AG1M7SAVaK6puAj_klVGcmt\"}}",
+            "breakdown_insights": {
+                "age": [],
+                "region": [],
+                "gender": [],
+                "device_platform": []
+            }
+        },
+        {
+            "id": "120216801378460560",
+            "name": "Promoting website: https://myfurnituremecca.com/tax-refund-sale/",
+            "adset_id": "120216801378300560",
+            "campaign_id": "120216801371040560",
+            "status": "ACTIVE",
+            "insights": "Failed to fetch insights: {\"error\":{\"message\":\"(#100) Current combination of data breakdown columns (action_type, age, device_platform, gender, region) is invalid \",\"type\":\"OAuthException\",\"code\":100,\"fbtrace_id\":\"AKjP91a9XbL8c53hn2w4PfA\"}}",
+            "breakdown_insights": {
+                "age": [],
+                "region": [],
+                "gender": [],
+                "device_platform": []
+            }
+        },
+        {
+            "id": "120216723457690560",
+            "name": "New Traffic Ad",
+            "adset_id": "120216723457630560",
+            "campaign_id": "120216723457520560",
+            "status": "ACTIVE",
+            "insights": "Failed to fetch insights: {\"error\":{\"message\":\"(#100) Current combination of data breakdown columns (action_type, age, device_platform, gender, region) is invalid \",\"type\":\"OAuthException\",\"code\":100,\"fbtrace_id\":\"AKeb0BAIS961765p969FS_I\"}}",
+            "breakdown_insights": {
+                "age": [],
+                "region": [],
+                "gender": [],
+                "device_platform": []
+            }
+        },
+        {
+            "id": "120215535520480560",
+            "name": "New Engagement Ad",
+            "adset_id": "120215535520420560",
+            "campaign_id": "120215535520390560",
+            "status": "ACTIVE",
+            "insights": "Failed to fetch insights: {\"error\":{\"message\":\"(#100) Current combination of data breakdown columns (action_type, age, device_platform, gender, region) is invalid \",\"type\":\"OAuthException\",\"code\":100,\"fbtrace_id\":\"AN4SO_CyEu1S3vduYI1OrL-\"}}",
+            "breakdown_insights": {
+                "age": [],
+                "region": [],
+                "gender": [],
+                "device_platform": []
+            }
+        },
+        {
+            "id": "120215617386320560",
+            "name": "New Engagement Ad",
+            "adset_id": "120215617386300560",
+            "campaign_id": "120215617386280560",
+            "status": "ACTIVE",
+            "insights": "Failed to fetch insights: {\"error\":{\"message\":\"(#100) Current combination of data breakdown columns (action_type, age, device_platform, gender, region) is invalid \",\"type\":\"OAuthException\",\"code\":100,\"fbtrace_id\":\"ATyqq28ZlR9GxhGClPg2JCs\"}}",
+            "breakdown_insights": {
+                "age": [],
+                "region": [],
+                "gender": [],
+                "device_platform": []
+            }
+        },
+        {
+            "id": "120216325016450560",
+            "name": "New Engagement Ad",
+            "adset_id": "120216325016430560",
+            "campaign_id": "120216325016410560",
+            "status": "ACTIVE",
+            "insights": "Failed to fetch insights: {\"error\":{\"message\":\"(#100) Current combination of data breakdown columns (action_type, age, device_platform, gender, region) is invalid \",\"type\":\"OAuthException\",\"code\":100,\"fbtrace_id\":\"Al1UyD7onOoQiUjCpR-UM4K\"}}",
+            "breakdown_insights": {
+                "age": [],
+                "region": [],
+                "gender": [],
+                "device_platform": []
+            }
+        },
+        {
+            "id": "120216324952530560",
+            "name": "New Engagement Ad",
+            "adset_id": "120216324952480560",
+            "campaign_id": "120216324952440560",
+            "status": "ACTIVE",
+            "insights": "Failed to fetch insights: {\"error\":{\"message\":\"(#100) Current combination of data breakdown columns (action_type, age, device_platform, gender, region) is invalid \",\"type\":\"OAuthException\",\"code\":100,\"fbtrace_id\":\"Awj9riYJuC_WrW7wdKYl81T\"}}",
+            "breakdown_insights": {
+                "age": [],
+                "region": [],
+                "gender": [],
+                "device_platform": []
+            }
+        },
+        {
+            "id": "120216107448120560",
+            "name": "Promoting website: https://myfurnituremecca.com/tax-refund-sale/",
+            "adset_id": "120216107447070560",
+            "campaign_id": "120216107447050560",
+            "status": "ACTIVE",
+            "insights": "Failed to fetch insights: {\"error\":{\"message\":\"(#100) Current combination of data breakdown columns (action_type, age, device_platform, gender, region) is invalid \",\"type\":\"OAuthException\",\"code\":100,\"fbtrace_id\":\"A28yUXdtGrbyEjLAsbAZCo7\"}}",
+            "breakdown_insights": {
+                "age": [],
+                "region": [],
+                "gender": [],
+                "device_platform": []
+            }
+        },
+        {
+            "id": "120215925262260560",
+            "name": "Promoting website: https://myfurnituremecca.com/annual-warehouse-clearance-sale/",
+            "adset_id": "120215925262230560",
+            "campaign_id": "120215925262090560",
+            "status": "ACTIVE",
+            "insights": "Failed to fetch insights: {\"error\":{\"message\":\"(#100) Current combination of data breakdown columns (action_type, age, device_platform, gender, region) is invalid \",\"type\":\"OAuthException\",\"code\":100,\"fbtrace_id\":\"AB1YEsh27vCSxh0vIeKX7wH\"}}",
+            "breakdown_insights": {
+                "age": [],
+                "region": [],
+                "gender": [],
+                "device_platform": []
+            }
+        },
+        {
+            "id": "120215845123380560",
+            "name": "Promoting website: https://myfurnituremecca.com/",
+            "adset_id": "120215845123360560",
+            "campaign_id": "120215845123320560",
+            "status": "ACTIVE",
+            "insights": "Failed to fetch insights: {\"error\":{\"message\":\"(#100) Current combination of data breakdown columns (action_type, age, device_platform, gender, region) is invalid \",\"type\":\"OAuthException\",\"code\":100,\"fbtrace_id\":\"AcE18iGtoLS02KcVV3UR-qo\"}}",
+            "breakdown_insights": {
+                "age": [],
+                "region": [],
+                "gender": [],
+                "device_platform": []
+            }
+        },
+        {
+            "id": "120215759525250560",
+            "name": "Post: \"Dream your way to better nights! \ud83c\udf19\u2728 Our premium...\"",
+            "adset_id": "120215759525160560",
+            "campaign_id": "120215759524970560",
+            "status": "ACTIVE",
+            "insights": "Failed to fetch insights: {\"error\":{\"message\":\"(#100) Current combination of data breakdown columns (action_type, age, device_platform, gender, region) is invalid \",\"type\":\"OAuthException\",\"code\":100,\"fbtrace_id\":\"AiAGQHfY7T5fbYY-2baW2b2\"}}",
+            "breakdown_insights": {
+                "age": [],
+                "region": [],
+                "gender": [],
+                "device_platform": []
+            }
+        },
+        {
+            "id": "120215759453270560",
+            "name": "Post: \"Biggest savings of the year! \ud83d\udecb\ufe0f\ud83d\udecf\ufe0f\ud83c\udf7d\ufe0f Annual...\"",
+            "adset_id": "120215759453200560",
+            "campaign_id": "120215759452880560",
+            "status": "ACTIVE",
+            "insights": "Failed to fetch insights: {\"error\":{\"message\":\"(#100) Current combination of data breakdown columns (action_type, age, device_platform, gender, region) is invalid \",\"type\":\"OAuthException\",\"code\":100,\"fbtrace_id\":\"ADYmVVKX1QOewJj3B5nmnEc\"}}",
+            "breakdown_insights": {
+                "age": [],
+                "region": [],
+                "gender": [],
+                "device_platform": []
+            }
+        },
+        {
+            "id": "120215759267340560",
+            "name": "Post: \"\ud83c\udf89 It's time to save BIG! Our Annual Warehouse...\"",
+            "adset_id": "120215759266890560",
+            "campaign_id": "120215759266780560",
+            "status": "ACTIVE",
+            "insights": "Failed to fetch insights: {\"error\":{\"message\":\"(#100) Current combination of data breakdown columns (action_type, age, device_platform, gender, region) is invalid \",\"type\":\"OAuthException\",\"code\":100,\"fbtrace_id\":\"AmdICMfxTPTWaqaovUmLRL_\"}}",
+            "breakdown_insights": {
+                "age": [],
+                "region": [],
+                "gender": [],
+                "device_platform": []
+            }
+        },
+        {
+            "id": "120215694838810560",
+            "name": "New Traffic Ad",
+            "adset_id": "120215694838770560",
+            "campaign_id": "120215694838740560",
+            "status": "ACTIVE",
+            "insights": "Failed to fetch insights: {\"error\":{\"message\":\"(#100) Current combination of data breakdown columns (action_type, age, device_platform, gender, region) is invalid \",\"type\":\"OAuthException\",\"code\":100,\"fbtrace_id\":\"Aqip5kPqm8a00tPHBiIZq5Q\"}}",
+            "breakdown_insights": {
+                "age": [],
+                "region": [],
+                "gender": [],
+                "device_platform": []
+            }
+        },
+        {
+            "id": "120215553832200560",
+            "name": "New Engagement Ad",
+            "adset_id": "120215553831880560",
+            "campaign_id": "120215553831180560",
+            "status": "ACTIVE",
+            "insights": "Failed to fetch insights: {\"error\":{\"message\":\"(#100) Current combination of data breakdown columns (action_type, age, device_platform, gender, region) is invalid \",\"type\":\"OAuthException\",\"code\":100,\"fbtrace_id\":\"A5OEZN4CxZ8zrpNj25FpM4A\"}}",
+            "breakdown_insights": {
+                "age": [],
+                "region": [],
+                "gender": [],
+                "device_platform": []
+            }
+        },
+        {
+            "id": "120215535576800560",
+            "name": "New Engagement Ad",
+            "adset_id": "120215535576780560",
+            "campaign_id": "120215535576740560",
+            "status": "ACTIVE",
+            "insights": "Failed to fetch insights: {\"error\":{\"message\":\"(#100) Current combination of data breakdown columns (action_type, age, device_platform, gender, region) is invalid \",\"type\":\"OAuthException\",\"code\":100,\"fbtrace_id\":\"A0SBkoYuVw7M9aM9nf9QWBb\"}}",
+            "breakdown_insights": {
+                "age": [],
+                "region": [],
+                "gender": [],
+                "device_platform": []
+            }
+        },
+        {
+            "id": "120215535450940560",
+            "name": "New Engagement Ad",
+            "adset_id": "120215535450780560",
+            "campaign_id": "120215535450760560",
+            "status": "ACTIVE",
+            "insights": "Failed to fetch insights: {\"error\":{\"message\":\"(#100) Current combination of data breakdown columns (action_type, age, device_platform, gender, region) is invalid \",\"type\":\"OAuthException\",\"code\":100,\"fbtrace_id\":\"AceAitv9E-SnkI5wWXIp_C5\"}}",
+            "breakdown_insights": {
+                "age": [],
+                "region": [],
+                "gender": [],
+                "device_platform": []
+            }
+        },
+        {
+            "id": "120215467454890560",
+            "name": "New Engagement Ad",
+            "adset_id": "120215467454740560",
+            "campaign_id": "120215467454720560",
+            "status": "ACTIVE",
+            "insights": "Failed to fetch insights: {\"error\":{\"message\":\"(#100) Current combination of data breakdown columns (action_type, age, device_platform, gender, region) is invalid \",\"type\":\"OAuthException\",\"code\":100,\"fbtrace_id\":\"AmYtqSAE_fikx2QpEnQKi91\"}}",
+            "breakdown_insights": {
+                "age": [],
+                "region": [],
+                "gender": [],
+                "device_platform": []
+            }
+        },
+        {
+            "id": "120215366147880560",
+            "name": "Instagram post: Celebrate the season with...",
+            "adset_id": "120215366147770560",
+            "campaign_id": "120215366147690560",
+            "status": "ACTIVE",
+            "insights": "Failed to fetch insights: {\"error\":{\"message\":\"(#100) Current combination of data breakdown columns (action_type, age, device_platform, gender, region) is invalid \",\"type\":\"OAuthException\",\"code\":100,\"fbtrace_id\":\"AYnIZqU0bWLorDUikkBsKzN\"}}",
+            "breakdown_insights": {
+                "age": [],
+                "region": [],
+                "gender": [],
+                "device_platform": []
+            }
+        },
+        {
+            "id": "120215366112820560",
+            "name": "Instagram post: \ud83c\udf84\u2728 Celebrate the season with up...",
+            "adset_id": "120215366111780560",
+            "campaign_id": "120215366111750560",
+            "status": "ACTIVE",
+            "insights": "Failed to fetch insights: {\"error\":{\"message\":\"(#100) Current combination of data breakdown columns (action_type, age, device_platform, gender, region) is invalid \",\"type\":\"OAuthException\",\"code\":100,\"fbtrace_id\":\"Ac5C1BhmNEK47pP30fS-NMn\"}}",
+            "breakdown_insights": {
+                "age": [],
+                "region": [],
+                "gender": [],
+                "device_platform": []
+            }
+        },
+        {
+            "id": "120215366052940560",
+            "name": "Post: \"\ud83c\udf84\u2728 Celebrate the season with up to 75% OFF!\"",
+            "adset_id": "120215366052850560",
+            "campaign_id": "120215366052740560",
+            "status": "ACTIVE",
+            "insights": "Failed to fetch insights: {\"error\":{\"message\":\"(#100) Current combination of data breakdown columns (action_type, age, device_platform, gender, region) is invalid \",\"type\":\"OAuthException\",\"code\":100,\"fbtrace_id\":\"AKJsZZgTgjBUlDeavQIYyDy\"}}",
+            "breakdown_insights": {
+                "age": [],
+                "region": [],
+                "gender": [],
+                "device_platform": []
+            }
+        },
+        {
+            "id": "120215366091680560",
+            "name": "Post: \"Celebrate the season with unbeatable holiday...\"",
+            "adset_id": "120215366091560560",
+            "campaign_id": "120215366091230560",
+            "status": "ACTIVE",
+            "insights": "Failed to fetch insights: {\"error\":{\"message\":\"(#100) Current combination of data breakdown columns (action_type, age, device_platform, gender, region) is invalid \",\"type\":\"OAuthException\",\"code\":100,\"fbtrace_id\":\"AijDw7VVC1vfb7XgoUHKcWp\"}}",
+            "breakdown_insights": {
+                "age": [],
+                "region": [],
+                "gender": [],
+                "device_platform": []
+            }
+        }
+    ]
+}
